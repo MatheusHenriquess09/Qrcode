@@ -1,2 +1,2 @@
 # Qrcode
-- 👨🏻‍💻 Gerando um Qrcode utilizando a linguagem Python.
+- 👨🏻‍💻 Gerando Qrcode utilizando a linguagem Python.
